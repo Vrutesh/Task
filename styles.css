@@ -305,14 +305,13 @@
   font-size: 4rem;
 }
 
-
 /* video container  */
 .process-reel {
   width: 100%;
   height: 600px; /* Set this to the desired height */
   display: flex;
   justify-content: center;
-  align-items: center; 
+  align-items: center;
 }
 
 .process-reel iframe {
@@ -324,7 +323,6 @@
   position: relative;
   top: 30%;
 }
-
 
 /* faq section  */
 .faq-section {
